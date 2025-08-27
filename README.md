@@ -66,7 +66,7 @@ This project demonstrates canvas rendering, collision detection, keyboard/touch 
 📱 **Touch Controls** — Mobile-friendly controls for lane switching & braking
 
 # 📂 Project Structure
-Street-Racer/
+Street-Racer
 
 ├── index.html 
 # Single HTML file (contains styles, scripts, and canvas)
