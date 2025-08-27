@@ -74,16 +74,16 @@ Street-Racer
 
 # 🚀 How to Run the Game
 
-**Clone the repository:**
+**1.Clone the repository:**
 
 git clone https://github.com/your-username/street-racer.git
 
 
-**Navigate into the folder:**
+**2.Navigate into the folder:**
 
 cd street-racer
 
 
-**Launch the game:**
+**3.Launch the game:**
 
 Just double-click on index.html or open it manually in any modern browser.
