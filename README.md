@@ -67,7 +67,9 @@ This project demonstrates canvas rendering, collision detection, keyboard/touch 
 
 # 📂 Project Structure
 Street-Racer/
-├── index.html   # Single HTML file (contains styles, scripts, and canvas)
+
+├── index.html 
+# Single HTML file (contains styles, scripts, and canvas)
 └── assets/      # (Optional) Place for screenshots or additional assets
 
 # 🚀 How to Run the Game
