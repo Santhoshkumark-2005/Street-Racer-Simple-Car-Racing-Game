@@ -29,11 +29,17 @@ This project demonstrates canvas rendering, collision detection, keyboard/touch 
 # ✨ Features
 
 ✅ **Canvas-based 2D Rendering** — Smooth visuals optimized for browsers
+
 ✅ **Responsive UI** — Works perfectly on desktop & mobile
+
 ✅ **Touch & Keyboard Controls** — Play seamlessly on any device
+
 ✅ **Adjustable Difficulty** — Easy, Normal, and Hard modes
+
 ✅ **Real-time Scoring System** — See your score and high score instantly
+
 ✅ **Pause & Restart** — Full game lifecycle controls
+
 ✅ **Lightweight & Fast** — No external frameworks required
 
 # 🛠️ Tech Stack
@@ -77,4 +83,5 @@ cd street-racer
 
 
 **Launch the game:**
+
 Just double-click on index.html or open it manually in any modern browser.
