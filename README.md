@@ -70,7 +70,7 @@ Street-Racer/
 
 ├── index.html 
 # Single HTML file (contains styles, scripts, and canvas)
-└── assets/      # (Optional) Place for screenshots or additional assets
+└── assets
 
 # 🚀 How to Run the Game
 
